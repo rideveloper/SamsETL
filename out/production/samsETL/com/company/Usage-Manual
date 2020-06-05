@@ -1,0 +1,28 @@
+1. Make sure database connectors point to the accurate DB's //school_management
+2. If the main class doesn't follow steps, below are the following classes to run step by step.
+    *SchoolToSchool
+    *CodeToSubject
+    *SesionToSession
+    *SesionHistoryToSession
+    *Sesion and SesionHistoryToSchoolevent
+    *schoolevents
+    *SchoolClassToLevel
+    *ClassRoomToClass
+    *EmployeeTostaff
+    *UserTouser
+    *SubjectTosubject_levels
+    *ClassRoomToclass_teacher
+    *SubjectTeacherToassigned_subjects //was empty for SG
+    *Parenttouser
+    *Parenttoparent
+    *StudentTostudent2
+    *parent_student
+    *school_user
+
+3. Done by Festus(Don't run here)
+    #gradetograde
+    #gradescore
+    #PublishedResultTopublished_student_assessment
+    #Resulttostudent_assessment
+    #StudentToclass_students
+
